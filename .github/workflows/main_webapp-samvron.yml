@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'webapp-samvron'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_847741EA0BB943589B0C25BD3B692AFF }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_963054D8676A4A258D31BC36BF78AF49 }}
           package: .
